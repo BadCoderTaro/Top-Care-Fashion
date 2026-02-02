@@ -19,6 +19,10 @@
 
 > 🌐 **Production Environment**: The application is live and deployed at **[https://top-care-fashion.vercel.app/](https://top-care-fashion.vercel.app/)**
 
+## Click the link below to see the marketing video and demostration made by me
+
+https://drive.google.com/drive/folders/1pFBveWCW8WeDb6JM9T-ureswBHHlxG7A?usp=drive_link
+
 ### What Makes It Special
 
 - **AI-Powered Styling**: Leverage Google Cloud Vision and Gemini AI for outfit recommendations, product classification, and content moderation
