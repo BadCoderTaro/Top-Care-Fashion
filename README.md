@@ -655,14 +655,6 @@ This project is proprietary software. All rights reserved.
 
 ---
 
-## Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Atmospenguin/Top-Care-Fashion/issues)
-- **GitHub Discussions**: [Ask questions and share ideas](https://github.com/Atmospenguin/Top-Care-Fashion/discussions)
-- **Email**: atmospenguin@qq.com
-
----
-
 ## Brand Guidelines
 
 ### Colors
