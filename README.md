@@ -7,8 +7,8 @@
 
 **A modern AI-powered fashion marketplace platform combining peer-to-peer commerce with  intelligent styling features**
 
-🌐 **[Live Production Site](https://top-care-fashion.vercel.app/)** 
-
+🌐 **[Live Production Site](https://top-care-fashion.vercel.app/)**  For detailed database schema documentation, see docs > DATABASE_SCHEMA.md 
+ 
 </div>
 
 ---
@@ -111,10 +111,6 @@ https://drive.google.com/drive/folders/1pFBveWCW8WeDb6JM9T-ureswBHHlxG7A?usp=dri
    ```
 
 ---
-
-## Architecture
-
-For detailed database schema documentation, see docs > DATABASE_SCHEMA.md 
 
 ### Tech Stack
 
