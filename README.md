@@ -708,7 +708,6 @@ Available in multiple formats:
 
 <div align="center">
 
-**Write by Cheng Zhenxi**
 
 [Back to Top](#top-care-fashion)
 
