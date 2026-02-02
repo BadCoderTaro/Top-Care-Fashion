@@ -1,0 +1,241 @@
+Top Care Fashion
+├── Guest (Web App)
+│   ├── View Landing Page
+│   │   ├── View App Introduction
+│   │   ├── View User Feedbacks
+│   │   ├── View Demographic Statistics
+│   │   └── View Support Contact
+│   ├── View FAQ Page
+│   │   └── Submit Question/Queries
+│   ├── View Sign-up Page
+│   │   └── Create Account
+│   └── View Login Page
+│       └── Reset Password
+│
+├── Registered User
+│   ├── (Web App)
+│   │   ├── View Landing Page
+│   │   │   ├── View App Introduction
+│   │   │   ├── View User Feedbacks
+│   │   │   ├── View Demographic Statistics
+│   │   │   └── View Support Contact
+│   │   ├── View FAQ Page
+│   │   │   └── Submit Question/Queries
+│   │   ├── Login / Logout
+│   │   │   └── Reset Password
+│   │   ├── View Profile Page
+│   │   │   └── Manage Profile
+│   │   └── Download Mobile App
+│   │
+│   ├── (Mobile App - Auth)
+│   │   ├── View Splash Screen
+│   │   ├── View Landing Screen
+│   │   ├── Login / Register
+│   │   ├── Forgot Password
+│   │   └── Onboarding Preferences
+│   │
+│   ├── (Mobile App - Main)
+│   │   ├── Home Tab
+│   │   │   └── View Home Feed
+│   │   │
+│   │   ├── Discover Tab
+│   │   │   ├── Browse Categories
+│   │   │   └── View Category Details
+│   │   │       └── Browse Listings by Category
+│   │   │
+│   │   ├── Sell Tab
+│   │   │   ├── Create Listing
+│   │   │   │   ├── Upload Listing Images
+│   │   │   │   │   └── AI Tagging & Classification
+│   │   │   │   ├── Enter Listing Information
+│   │   │   │   │   ├── Title, Description, Price
+│   │   │   │   │   ├── Category, Brand, Size, Style
+│   │   │   │   │   └── Condition, Gender
+│   │   │   │   └── Confirm & List Item
+│   │   │   ├── View Drafts
+│   │   │   │   └── Edit or Delete Draft Listings
+│   │   │   └── View Listed Listings
+│   │   │       ├── Manage Listing
+│   │   │       │   ├── Edit Listing
+│   │   │       │   ├── Promote/Boost Listing
+│   │   │       │   └── Mark as Sold
+│   │   │       └── View Listing Details
+│   │   │           ├── View Listing Statistics
+│   │   │           └── View Listing Transactions
+│   │   │
+│   │   ├── Inbox Tab
+│   │   │   ├── View Conversations
+│   │   │   │   └── Chat with Users
+│   │   │   │       ├── Send Messages
+│   │   │   │       ├── Send Images
+│   │   │   │       └── View Order Details in Chat
+│   │   │   └── View Notifications
+│   │   │
+│   │   └── My TOP Tab
+│   │       ├── View Profile
+│   │       │   ├── Edit Profile
+│   │       │   │   ├── Update Avatar
+│   │       │   │   ├── Update Username, Bio
+│   │       │   │   └── Update Preferences
+│   │       │   ├── View Followers/Following
+│   │       │   └── View User Ratings & Reviews
+│   │       ├── View Active Listings
+│   │       │   ├── Manage Listings
+│   │       │   └── Promote/Boost Listings
+│   │       ├── View Sold Listings
+│   │       │   └── View Order Details
+│   │       ├── View Purchases
+│   │       │   └── View Order Details
+│   │       ├── View Likes/Favorites
+│   │       │   └── View Favorite Listings
+│   │       ├── View Saved Outfits
+│   │       │   └── Manage Saved Mix & Match Outfits
+│   │       ├── View Orders
+│   │       │   ├── View Order Details
+│   │       │   └── Leave Review
+│   │       │       ├── Leave Seller Review
+│   │       │       ├── Leave Buyer Review
+│   │       │       └── View Mutual Reviews
+│   │       ├── View My Reviews
+│   │       ├── View Premium Membership
+│   │       │   ├── View Premium Benefits
+│   │       │   ├── Upgrade to Premium
+│   │       │   ├── Renew Premium Membership
+│   │       │   └── Cancel Premium Membership
+│   │       ├── Manage Payments
+│   │       │   └── Manage Payment Methods
+│   │       ├── Settings
+│   │       │   ├── Change Password
+│   │       │   ├── Privacy Settings
+│   │       │   └── Security Settings
+│   │       ├── Help & Support
+│   │       │   └── Submit Feedback
+│   │       └── Report/Flag Content
+│   │
+│   ├── (Mobile App - Buy Flow)
+│   │   ├── Search Listings
+│   │   │   ├── Search by Query
+│   │   │   ├── Filter by Category, Gender, Price
+│   │   │   └── View Search Results
+│   │   ├── View Listing Details
+│   │   │   ├── View Listing Information
+│   │   │   ├── Favorite/Unfavorite Listing
+│   │   │   ├── Report/Flag Listing
+│   │   │   ├── Add to Cart
+│   │   │   ├── Buy Now
+│   │   │   ├── Mix & Match
+│   │   │   │   ├── Select Matching Items
+│   │   │   │   ├── View AI Outfit Analysis
+│   │   │   │   │   ├── View AI Rating
+│   │   │   │   │   ├── View Style Tips
+│   │   │   │   │   ├── View Color Harmony Score
+│   │   │   │   │   └── View Vibe Analysis
+│   │   │   │   ├── Save Outfit
+│   │   │   │   └── Add to Cart
+│   │   │   └── View User Profile
+│   │   │       ├── View User Details
+│   │   │       ├── View User Listings
+│   │   │       ├── View User Ratings & Reviews
+│   │   │       ├── Follow/Unfollow User
+│   │   │       └── Report User
+│   │   ├── View Cart/Bag
+│   │   │   ├── View Cart Items
+│   │   │   ├── Update Quantities
+│   │   │   └── Remove Items
+│   │   ├── Checkout
+│   │   │   ├── Select Shipping Address
+│   │   │   ├── Select Payment Method
+│   │   │   ├── Review Order
+│   │   │   └── Place Order
+│   │   └── View Purchase Confirmation
+│   │       └── View Order Details
+│   │
+│   └── (Mobile App - Premium)
+│       ├── View Premium Membership
+│       │   ├── View Premium Benefits
+│       │   │   ├── Reduced Commission (5%)
+│       │   │   ├── Unlimited Listings
+│       │   │   ├── Unlimited Mix & Match
+│       │   │   ├── Promotion Discount (30% off)
+│       │   │   └── Free Promotion Credits (3/month)
+│       │   ├── View Premium Plans
+│       │   │   ├── Monthly Plan
+│       │   │   ├── Quarterly Plan
+│       │   │   └── Annual Plan
+│       │   ├── Purchase Premium Membership
+│       │   ├── Renew Premium Membership
+│       │   └── Cancel Premium Membership
+│       ├── View Promotion Plans
+│       │   ├── View Boost Pricing
+│       │   ├── Select Listings to Boost
+│       │   └── Checkout Promotion
+│       │       └── Use Free Boost Credits
+│       └── Boost Checkout
+│           └── Complete Promotion Purchase
+│
+└── Admin (Web App)
+    ├── View Dashboard
+    │   ├── View User Statistics
+    │   ├── View Listing Statistics
+    │   ├── View Transaction Statistics
+    │   ├── View Revenue Statistics
+    │   ├── View Top Items
+    │   ├── View Top Sellers
+    │   └── View Recent Transactions
+    │
+    ├── Manage User Accounts
+    │   ├── View User List
+    │   ├── View User Account Details
+    │   │   ├── View User Listings
+    │   │   ├── View User Transactions
+    │   │   └── View User Reviews
+    │   ├── Suspend User Account
+    │   └── Unsuspend User Account
+    │
+    ├── Manage Listings
+    │   ├── View Listed Listings
+    │   ├── View Listed Listing Details
+    │   │   ├── View Listing Reviews
+    │   │   └── View Listing Transactions
+    │   ├── Unlist Listed Listing
+    │   └── Delete Listed Listing
+    │
+    ├── Manage Listing Categories
+    │   ├── View Categories
+    │   ├── Create Listing Category
+    │   ├── Update Listing Category
+    │   └── Delete Listing Category
+    │
+    ├── Manage Transactions
+    │   ├── View Transaction List
+    │   ├── View Transaction Details
+    │   │   └── View Transaction Reviews
+    │   └── View Transaction Statistics
+    │
+    ├── Manage Reports
+    │   ├── View Reports
+    │   └── Manage Report Resolution
+    │
+    ├── Manage User Feedbacks
+    │   ├── View User Feedbacks
+    │   └── Manage User Feedbacks
+    │
+    ├── Manage FAQ
+    │   ├── View FAQ Queries
+    │   └── Manage FAQ
+    │
+    ├── Manage Conversations
+    │   ├── View Conversations
+    │   └── View Conversation Details
+    │
+    ├── Manage Content
+    │   ├── Edit Landing Page Content
+    │   │   ├── Edit App Introduction
+    │   │   ├── Edit User Feedbacks
+    │   │   ├── Edit Demographic Statistics
+    │   │   └── Edit Support Contact
+    │   └── Manage Listing Images
+    │       └── View & Manage Orphaned Images
+    │
+    └── Manage Support
+        └── View Support Requests
