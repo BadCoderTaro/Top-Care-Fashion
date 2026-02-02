@@ -8,6 +8,8 @@
 **A modern AI-powered fashion marketplace platform combining peer-to-peer commerce with  intelligent styling features**
 
 For detailed database schema documentation: see docs > DATABASE_SCHEMA.md 
+<img width="988" height="1149" alt="image" src="https://github.com/user-attachments/assets/1dce3664-6598-44db-9577-25efb2a0d0ea" />
+
  
 </div>
 
